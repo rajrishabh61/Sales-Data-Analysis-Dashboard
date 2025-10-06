@@ -15,7 +15,7 @@
 <section>
     <h2>Dataset</h2>
     <p>
-        The dataset used is the <strong>Superstore Sales Dataset</strong>, containing transactional data including 
+        The dataset used is the <strong>Superstore Sales Dataset from www.kaggle.com</strong>, containing transactional data including 
         order dates, product details, sales figures, and more.
         <br>
         <a href="https://www.kaggle.com/datasets/vivek468/superstore-dataset-final" target="_blank">Download Dataset</a>
