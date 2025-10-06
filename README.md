@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Sales Data Analysis Dashboard</title>
-</head>
-<body>
+
     <h1>Sales Data Analysis Dashboard</h1>
 
     <h2>Overview</h2>
@@ -39,5 +33,4 @@
             <code>git clone https://github.com/rajrishabh61/Sales-Data-Analysis-Dashboard.git</code>
         </li>
     </ol>
-</body>
-</html>
+
